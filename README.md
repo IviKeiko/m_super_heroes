@@ -1,3 +1,21 @@
+
+# m_super_heroes
+Written using React.js/Javascript
+
+Marvel API is used to get characters.
+
+Features: 
+  * interacting with search input user gets results
+  * search result item can be bookmarked by user
+  * the bookmarked search items are saved in local storage and displayed when the search input is empty
+  * pagination allows user to navigate through results
+  * characters are displayed in a 4x5 grid on desktop, 2x10 grid on tablet and 1x20 grid on mobile
+  * each item displyes img, name and bookmarked state
+
+
+**************************************************************
+**************************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
